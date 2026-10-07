@@ -74,6 +74,18 @@
             }
           },
           {
+            "id": "9282decc5e7226e1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.14.4"
+            }
+          },
+          {
             "id": "6037c04186237704",
             "type": "leaf",
             "state": {
@@ -88,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -163,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "问题集/问题1.md",
+                "file": "做过的题/P10367 [PA 2024] Żarówki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +185,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "问题1 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -238,7 +250,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -249,11 +261,13 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "acaaab00132a0349",
+  "active": "9282decc5e7226e1",
   "lastOpenFiles": [
+    "新建文本文档.txt",
     "做过的题/2025NOIP赛前模拟赛/模拟赛1 T1 括号序列.md",
     "做过的题/2025NOIP赛前模拟赛/模拟赛1 T2 序列划分.md",
     "做过的题/P10367 [PA 2024] Żarówki.md",
@@ -279,7 +293,6 @@
     "trick和知识点/数论.md",
     "trick和知识点/一些零碎的知识.md",
     "复制的文章/Some Simple Tricks (By jorisy).md",
-    "复制的文章/复制的有趣东西.md",
     "复制的文章",
     "未命名 2.base",
     "ximtf967.webp",
