@@ -77,12 +77,14 @@
             "id": "9282decc5e7226e1",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.14.4"
+                "file": "做过的题/P5686 和积和.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.14.4"
+              "icon": "lucide-file",
+              "title": "P5686 和积和"
             }
           },
           {
@@ -267,11 +269,11 @@
   },
   "active": "9282decc5e7226e1",
   "lastOpenFiles": [
+    "做过的题/P5030 长脖子鹿放置.md",
     "新建文本文档.txt",
     "做过的题/2025NOIP赛前模拟赛/模拟赛1 T1 括号序列.md",
     "做过的题/2025NOIP赛前模拟赛/模拟赛1 T2 序列划分.md",
     "做过的题/P10367 [PA 2024] Żarówki.md",
-    "做过的题/P5030 长脖子鹿放置.md",
     "做过的题/CF612E Square Root of Permutation（待解决）.md",
     "做过的题/CF165E Compatible Numbers.md",
     "做过的题/P5322 派兵布阵.md",
@@ -309,7 +311,6 @@
     "graph (1) 4.png",
     "graph (1) 3.png",
     "做过的题",
-    "学习笔记",
-    "trick和知识点"
+    "学习笔记"
   ]
 }
