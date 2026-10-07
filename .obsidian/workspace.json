@@ -74,31 +74,17 @@
             }
           },
           {
-            "id": "9282decc5e7226e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "做过的题/P5686 和积和.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "P5686 和积和"
-            }
-          },
-          {
             "id": "6037c04186237704",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "做过的题/ABC164D Multiple of 2019.md",
+                "file": "trick和知识点/STL操作.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ABC164D Multiple of 2019"
+              "title": "STL操作"
             }
           }
         ],
@@ -136,7 +122,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "线段",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -267,8 +253,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9282decc5e7226e1",
+  "active": "6037c04186237704",
   "lastOpenFiles": [
+    "做过的题/P2014 选课.md",
+    "做过的题/ABC164D Multiple of 2019.md",
+    "做过的题/ABC446G Subsequence.md",
+    "做过的题/CF1110D Jongmah.md",
+    "做过的题/P8186 Redistributing Gifts S.md",
+    "做过的题/P5686 和积和.md",
     "做过的题/P5030 长脖子鹿放置.md",
     "新建文本文档.txt",
     "做过的题/2025NOIP赛前模拟赛/模拟赛1 T1 括号序列.md",
@@ -279,22 +271,17 @@
     "做过的题/P5322 派兵布阵.md",
     "做过的题/CF2185E.md",
     "做过的题/ABC446E Multiple-Free Sequences.md",
-    "做过的题/ABC164D Multiple of 2019.md",
     "做过的题/P1345 奶牛的电信.md",
     "做过的题/ABC263E Sugoroku 3.md",
-    "做过的题/P2014 选课.md",
     "做过的题/P7505 小小的埴轮兵团.md",
     "做过的题/P1350 车的放置.md",
     "做过的题/P3802 小魔女帕琪.md",
-    "做过的题/P5686 和积和.md",
     "做过的题/P1325 雷达安装.md",
-    "做过的题/CF1110D Jongmah.md",
     "做过的题/所有子数组最小值之和.md",
     "做过的题/P4310 绝世好题.md",
     "做过的题/P6268 舞会.md",
     "trick和知识点/数论.md",
     "trick和知识点/一些零碎的知识.md",
-    "复制的文章/Some Simple Tricks (By jorisy).md",
     "复制的文章",
     "未命名 2.base",
     "ximtf967.webp",
